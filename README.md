@@ -1,0 +1,1 @@
+# startup-common-senses
